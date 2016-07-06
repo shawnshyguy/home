@@ -27,7 +27,7 @@ quotes[10]='Number of days without a roadblock in the CSS: [000]'
 
 quotes[11]='THE MOST INSANE PERSON ON YOUTUBE IN THE UNIVERSE IN EXISTENCE EVER LITERALLY'
 
-quotes[12]='Let\'s get right into the news'
+quotes[12]='Let\'s, get roiight, into the neeeews!'
 
 quotes[13]='Always backslash before you apostrophe'
 
