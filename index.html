@@ -29,6 +29,7 @@
  <div id="fixed"><a href="https://www.youtube.com/c/ShawnShyguySatan?sub_confirmation=1"><img src="sub.png"></a></div>
 </body>
 <style>
+
   #fixed {
     position: fixed;
     bottom: 10px;
@@ -48,13 +49,27 @@ height:182px;
     color: white;
     padding: 0px;
     font-size: 40px;
+  	position:fixed;
+	top:0;
+	right:0;
+	left:0;
+	z-index:2;
+  overflow:visible;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
 }
 h2,h1,p {
   font-family: opensans;
 }
 @font-face {
   font-family: opensans;
-  src: url(https://github.com/shawnshyguy/home/blob/gh-pages/OpenSans-Light.ttf);
-  font-weight: light;
+  src:url(https://github.com/shawnshyguy/home/blob/gh-pages/OpenSans-Light.ttf);
+}
+h2,p {
+  position:relative;
+  top:182px;
+  z-index:1
+}
+#title:after {
+  content:'Shawn ShyGuy'
 }
 </style>
