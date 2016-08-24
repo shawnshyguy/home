@@ -1,2 +1,2 @@
-# This is trash
-This is a homepade I'm working on. The CSS probably has 420 lines of useless or repeated junk, but the parts that are big don't work. :+1:
+#Vinesauce App
+This is still in very early beta testing, and by that I mean doing button graphics and whatnot, and assembling trash in Android Studio. subscribe for more info? Idk
