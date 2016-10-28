@@ -53,6 +53,8 @@ quotes[23]='<i>write text for quote 23 here</i>'
 
 quotes[24]='Outlet. Not a <i>plughole</i>'
 
+quotes[25]='THE BONE ZONE'
+
 var whichquote=Math.floor(Math.random()*(quotes.length))
 document.write(quotes[whichquote])
 //feel free to steal this script, I did just that.
