@@ -1,4 +1,22 @@
 <head>
-<meta http-equiv="refresh" content="0; url=<script language="JavaScript1.1" src="usagi.js">
-</script>" />
-</head>
+<title>Page Randomizer</title>
+<SCRIPT LANGUAGE="JavaScript">
+var howMany = 3; // max number of items listed below
+var page = new Array(howMany+1);
+
+page[0]="http://www.example.com/page1.html";
+page[1]="http://www.example.com/page2.html";
+page[2]="http://www.example.com/page3.html";
+
+function rndnumber(){
+var randscript = -1;
+while (randscript < 0 ¦¦ randscript > howMany ¦¦ isNaN(randscript)){
+randscript = parseInt(Math.random()*(howMany+1));
+}
+return randscript;
+}
+quo = rndnumber();
+quox = page[quo];
+window.location=(quox);
+</SCRIPT>
+</HEAD>
