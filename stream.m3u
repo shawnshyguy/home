@@ -1,0 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="24/7 ADULT IPTV",Miami TV Live
+http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D62Pi3e.png" group-title="24/7 ADULT IPTV",NYX Media 1 (Opt-1) (New!)
+https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/chunklist.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D62Pi3e.png" group-title="24/7 ADULT IPTV",NYX Media 1 (Opt-2) (New!)
+https://cdn1.ibizastream.biz:441/free/1/playlist.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D62Pi3e.png" group-title="24/7 ADULT IPTV",NYX Media 2 (Opt-1) (New!)
+https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream2/chunklist.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D62Pi3e.png" group-title="24/7 ADULT IPTV",NYX Media 2 (Opt-2) (New!)
+https://cdn1.ibizastream.biz:441/free/2/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Big Ass
+http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/VejnhiB.png" tvg-country="UK" tvg-url="" group-title="News",BBC News
+https://streamingserver003.viewtvgroup.com/kapanglocal-playout-master/tracks-v1a1/mono.m3u8
+
