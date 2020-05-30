@@ -1,1 +1,2 @@
 # home
+this is my GitHub repository that acts as a basic website. I'm hosting several pages I've made across the years here, mostly for preservation sake, but hope to make the actual site navigable and pretty and whatnot. Whilst I'm currently transitioning my new pages to this site, many of the older pages will likely be broken, mostly because the change of the file structure. Regardless, I hope you enjoy whatever I've scrambled together here. Have a good one.

@@ -1,0 +1,25 @@
+#pfp{
+	background-image:url(https://cdn.discordapp.com/avatars/142762426931085312/8092bf9b867cf325e9f9bd7a195294df.png);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	opacity:1;
+	position:fixed;
+}
+
+	
+	
+	
+#discord:hover #pfp{
+	opacity:1;
+}
+
+
+/* to any passerby, i do intend to make use of this someday, but today is not that day. */
+
+#mars {
+	position:relative;
+	right:-85vh;
+	bottom:-34.4vw;
+	opacity:0;
+}
