@@ -1,0 +1,21 @@
+h3 {
+	display:inline;
+}
+body {
+	text-align:center;
+	max-width:600px;
+	margin:auto;
+	background-image:url("cdn/smgreen.jpg");
+	overflow-x:hidden;
+}
+
+#bio {
+	color:lime;
+	text-align:left;
+}
+
+#biography {
+	height:300px;
+	background-image:url("cdn/wood2.jpg");
+	overflow:show;
+}
